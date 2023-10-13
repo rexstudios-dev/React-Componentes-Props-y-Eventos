@@ -1,4 +1,3 @@
-Aquí te muestro cómo quedaría el README.md con buenos estilos y encabezado:
 
 # React - Componentes, Props y Eventos
 
